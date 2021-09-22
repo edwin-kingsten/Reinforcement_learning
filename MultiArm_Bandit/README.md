@@ -1,1 +1,1 @@
-## This Repo contains Implementation Various MultiArm Bantid Algorithm in Python.
+## This Repo contains Implementation Various MultiArm Bandit Algorithm in Python.
